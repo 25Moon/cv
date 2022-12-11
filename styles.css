@@ -1,0 +1,37 @@
+/* Tags */
+body {
+    background-color: #D6E4E5;
+    color: gray;
+    margin: 18px;
+}
+
+hr {
+    border-style: none;
+    border-top: 7px dotted #EFF5F5;
+}
+
+h1 {
+    color: #497174;
+}
+
+h3 {
+    color: #497174;
+}
+
+a:any-link {
+    color: gray;
+}
+
+a {
+    text-decoration-color: #EFF5F5;
+}
+
+a:hover {
+    text-decoration-color: #497174;
+}
+
+a:active {
+    text-decoration-color: #EFF5F5;
+}
+
+/* Classes */
